@@ -1,0 +1,10 @@
+{
+  "id": "cmd-color",
+  "name": "Cmd Color",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Rainbow-colors each argument of shell commands in cmd/command code blocks, in both reading view and the editor.",
+  "author": "HTLife",
+  "authorUrl": "https://github.com/HTLife",
+  "isDesktopOnly": false
+}
